@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid green;
+}
+.span{
+    text-align: center;
+    font-size: 12pt;
+    
+}
